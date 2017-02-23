@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "index.html",
+    "currentPage": "page3.html",
     "name": "My Site",
     "theme": {
       "name": "mobirise3",
@@ -290,7 +290,7 @@
             "bgColor": "#2e2e2e",
             "bgColorRadio": false,
             "overlay": true,
-            "overlayOpacity": "0.5",
+            "overlayOpacity": "0.6",
             "overlayColor": "#008999"
           },
           "text1": "<strong>Address</strong><br>15281 SW 26 TER<br>Miami, FL 33182<br><br><br>\n<strong>Contacts</strong><br>\nEmail: prodriguez@miamiartsstudio.com<br>\nPhone: 786-423-6392<br>",
@@ -709,7 +709,7 @@
             "bgColor": "#2e2e2e",
             "bgColorRadio": false,
             "overlay": true,
-            "overlayOpacity": "0.5",
+            "overlayOpacity": "0.6",
             "overlayColor": "#008999"
           },
           "text1": "<strong>Address</strong><br>15281 SW 26 TER<br>Miami, FL 33182<br><br><br>\n<strong>Contacts</strong><br>\nEmail: prodriguez@miamiartsstudio.com<br>\nPhone: 786-423-6392<br>",
@@ -1382,7 +1382,7 @@
             "bgColor": "#2e2e2e",
             "bgColorRadio": false,
             "overlay": true,
-            "overlayOpacity": "0.5",
+            "overlayOpacity": "0.6",
             "overlayColor": "#008999"
           },
           "text1": "<strong>Address</strong><br>15281 SW 26 TER<br>Miami, FL 33182<br><br><br>\n<strong>Contacts</strong><br>\nEmail: prodriguez@miamiartsstudio.com<br>\nPhone: 786-423-6392<br>",
@@ -2072,7 +2072,7 @@
             "bgColor": "#2e2e2e",
             "bgColorRadio": false,
             "overlay": true,
-            "overlayOpacity": "0.5",
+            "overlayOpacity": "0.6",
             "overlayColor": "#008999"
           },
           "text1": "<strong>Address</strong><br>15281 SW 26 TER<br>Miami, FL 33182<br><br><br>\n<strong>Contacts</strong><br>\nEmail: prodriguez@miamiartsstudio.com<br>\nPhone: 786-423-6392<br>",
