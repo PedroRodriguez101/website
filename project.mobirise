@@ -1,0 +1,2238 @@
+{
+  "settings": {
+    "currentPage": "page1.html",
+    "name": "My Site",
+    "theme": {
+      "name": "mobirise3",
+      "title": "Mobirise 3",
+      "styling": {
+        "primaryColor": "#ffffff",
+        "secondaryColor": "#ffffff",
+        "successColor": "#90a878",
+        "infoColor": "#7e9b9f",
+        "warningColor": "#f3c649",
+        "dangerColor": "#f28281",
+        "titleFont": "Open Sans",
+        "subtitleFont": "Lora",
+        "textFont": "Raleway",
+        "isRoundedButtons": false,
+        "isAnimatedOnScroll": true,
+        "isScrollToTopButton": false
+      }
+    },
+    "versionFirst": "3.10.4",
+    "uniqCompNum": 101,
+    "versionPublish": "3.11.1",
+    "path": "file:///C:/Users/Petie-PC/Desktop",
+    "screenshot": "screenshot.png"
+  },
+  "pages": {
+    "index.html": {
+      "settings": {
+        "main": true,
+        "title": "",
+        "meta_descr": "",
+        "header_custom": "",
+        "footer_custom": "",
+        "html_before": ""
+      },
+      "components": [
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            },
+            "H3": {
+              "color": "#ed145a"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-2m",
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "3",
+            "bgColor": "#ffa4c1",
+            "showMeta": false
+          },
+          "title": "",
+          "meta": "By John Smith posted July 20, 2016"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header1",
+          "_styles": {
+            ".btn": {
+              "font-family": "'Oxygen', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700"
+            },
+            ".mbr-section-title": {
+              "color": "#ffffff",
+              "font-family": "'Montserrat', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700",
+              "font-size": "80px"
+            },
+            ".mbr-section-lead": {
+              "font-family": "'Oxygen', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700"
+            }
+          },
+          "_anchor": "header1-1k",
+          "_params": {
+            "parallax": true,
+            "bgImageRadio": true,
+            "showArrow": false,
+            "bgImage": "@PROJECT_PATH@/assets/images/untitled-8-2000x1125.jpg",
+            "bgColor": "#a07e49",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": "0.2",
+            "overlayColor": "#28324e",
+            "contentAlign": "center",
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true
+          },
+          "title": "WELCOME&nbsp;",
+          "text": "<span style=\"font-style: normal;\">Why, hello there - come on in.</span>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"page3.html\" data-toolbar=\"-mbrBtnMove\">BIOGRAPHY</a> "
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            },
+            "H3": {
+              "color": "#ed145a"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-2p",
+          "_params": {
+            "paddingTop": "0",
+            "paddingBottom": "1",
+            "bgColor": "#ffa4c1",
+            "showMeta": false
+          },
+          "title": "",
+          "meta": "By John Smith posted July 20, 2016"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .btn-social": {
+              "color": "#232323"
+            },
+            ".mbr-section-title": {
+              "color": "#ffffff",
+              "font-family": "'Montserrat', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "social-buttons2",
+          "_anchor": "social-buttons2-2b",
+          "_params": {
+            "paddingTop": "2",
+            "paddingBottom": "2",
+            "bgImageRadio": true,
+            "parallax": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/untitled-5-2000x1125-2.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": false,
+            "overlay": true,
+            "overlayOpacity": "0.6",
+            "overlayColor": "#008999"
+          },
+          "text": "FOLLOW ME",
+          "icons": "<a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Twitter\" target=\"_blank\" href=\"https://twitter.com/mobirise\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-twitter\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Facebook\" target=\"_blank\" href=\"https://www.facebook.com/pages/Mobirise/1616226671953247\"><i class=\"socicon socicon-facebook\"></i></a>  <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"YouTube\" target=\"_blank\" href=\"https://www.youtube.com/channel/UCt_tncVAetpK5JeM8L-8jyw\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-youtube\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Instagram\" target=\"_blank\" href=\"https://instagram.com/mobirise/\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-instagram\"></i></a>      "
+        },
+        {
+          "_inherit": "menu",
+          "_tags": [
+            "Theme"
+          ],
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff",
+              "font-family": "'Roboto', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Roboto:400,300,700"
+            },
+            ".navbar-toggler": {
+              "color": "#ffffff"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#ffffff"
+            },
+            ".link, .dropdown-item": {
+              "color": "#ffffff",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lato:400,300,700",
+              "font-family": "'Lato', sans-serif"
+            },
+            ".link": {
+              "font-size": "0.8rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "0.866rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#181818"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#2a2a2a!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#323232"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#ffffff",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#c0a375!important"
+            }
+          },
+          "_name": "ext.menu",
+          "_anchor": "ext_menu-1d",
+          "_params": {
+            "bgColor": "#323232",
+            "fontSize": "0.8",
+            "fontName": {
+              "name": "Lato",
+              "url": "https://fonts.googleapis.com/css?family=Lato:400,300,700",
+              "css": "'Lato', sans-serif"
+            },
+            "fontColor": "#ffffff",
+            "fontHoverColor": "@primaryColor",
+            "transparent": true,
+            "sticky": true,
+            "logo": true,
+            "showBrand": true,
+            "collapsed": true,
+            "hideButtons": true
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/bread-1-210x128.png",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "#top",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"#top\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">PEDRO RODRIGUEZ</a>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page3.html\">ABOUT ME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page2.html\">GALLERY</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">APPLICATIONS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html\">Adobe Illustrator CC</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html\">Adobe Photoshop CC</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Adobe Dreamweaver CC</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Adobe Premiere Pro CC</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Adobe Audition CC</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Adobe Animate CC</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Adobe After Effects CC</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Adobe Lightroom</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html\">Microsoft Word 2016</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Microsoft PowerPoint 2016</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">123D</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\"></a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">CREDENTIALS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"PedroRodriguez101.github.io/credentials/IllusCred.pdf\" target=\"_blank\">Illustrator CC</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Photoshop CC</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\"></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">IC3</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"PedroRodriguez101.github.io/documents/Pedro Rodriguez's Resume.pdf\" target=\"_blank\">Resume</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"#\">REFERENCE</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page1.html\">HOMEWORK</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts4",
+          "_styles": {
+            ".btn": {
+              "font-family": "'Oxygen', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700"
+            },
+            "P": {
+              "font-family": "'Oxygen', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700",
+              "color": "#efefef"
+            },
+            "STRONG": {
+              "font-family": "'Montserrat', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700",
+              "color": "#ffffff"
+            },
+            "UL": {
+              "font-family": "'Oxygen', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700",
+              "color": "#ffffff"
+            }
+          },
+          "_anchor": "contacts4-1l",
+          "_params": {
+            "paddingTop": "2",
+            "paddingBottom": "2",
+            "bgImageRadio": true,
+            "parallax": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/untitled-5-2000x1125.jpg",
+            "bgColor": "#2e2e2e",
+            "bgColorRadio": false,
+            "overlay": true,
+            "overlayOpacity": "0.6",
+            "overlayColor": "#008999"
+          },
+          "text1": "<strong>Address</strong><br>15281 SW 26 TER<br>Miami, FL 33182<br><br><br>\n<strong>Contacts</strong><br>\nEmail: prodriguez@miamiartsstudio.com<br>\nPhone: 786-423-6392<br>",
+          "text2": "<p class=\"mbr-contacts__text\"><strong>Tunes&nbsp;</strong></p><ul class=\"mbr-contacts__list\"><li><a href=\"https://www.youtube.com/watch?v=Vl2Rmw5hsao\" target=\"_blank\">Young Robot</a></li><li><a href=\"https://www.youtube.com/watch?v=NQunCjYdAcU\" target=\"_blank\">Cave Me In</a></li><li><a href=\"https://www.youtube.com/watch?v=6UosfX5u14g\" target=\"_blank\" class=\"text-white\">The Eye of Truth</a></li></ul>",
+          "form": {
+            "title": "MESSAGE",
+            "action": "prodriguez@miamiartsstudio.com",
+            "alerts": {
+              "success": "Thanks for filling out form!"
+            },
+            "fields": {
+              "name": {
+                "title": "Name",
+                "visible": false,
+                "customTitle": "Name*"
+              },
+              "email": {
+                "title": "Email",
+                "visible": true,
+                "customTitle": "Email*"
+              },
+              "phone": {
+                "title": "Phone",
+                "visible": false,
+                "customTitle": "Phone"
+              },
+              "message": {
+                "title": "Message",
+                "customTitle": "Message"
+              }
+            }
+          },
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-danger\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove,-mbrBtnRemove\">Contact Me</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "footer1",
+          "_anchor": "footer1-2l",
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#323232",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#444444"
+          },
+          "text": "Copyright (c) 2017 TFProdructions",
+          "_styles": {
+            "P": {
+              "font-family": "'Oxygen', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700",
+              "font-size": "14px",
+              "color": "#ffffff"
+            }
+          }
+        }
+      ]
+    },
+    "page1.html": {
+      "settings": {
+        "title": "Site Maker Title",
+        "meta_descr": "Site Maker Description"
+      },
+      "components": [
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            },
+            "H3": {
+              "color": "#ed145a"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-2j",
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "3",
+            "bgColor": "#ffa4c1",
+            "showMeta": false
+          },
+          "title": "",
+          "meta": "By John Smith posted July 20, 2016"
+        },
+        {
+          "_inherit": "header1",
+          "_styles": {
+            ".mbr-section-title": {
+              "color": "#ffffff",
+              "font-family": "'Montserrat', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700"
+            },
+            ".mbr-section-lead": {
+              "color": "#ffffff",
+              "font-family": "'Oxygen', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700"
+            },
+            ".btn": {
+              "font-family": "'Oxygen', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header5",
+          "_anchor": "header5-t",
+          "_params": {
+            "parallax": true,
+            "bgImageRadio": false,
+            "showArrow": false,
+            "bgImage": "@PROJECT_PATH@/assets/images/o-miami-florida-downtown-facebook-2000x1000.jpg",
+            "bgColor": "#22abc7",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#000",
+            "contentAlign": "center",
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true
+          },
+          "title": "Microsoft Word",
+          "text": "<span style=\"font-style: normal;\">Click to View</span>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"PedroRodriguez101.github.io/documents/Discuss IT Topic 5 (1).pdf\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">DiscussIT 5</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"PedroRodriguez101.github.io/documents/Discuss IT Topic 6.pdf\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">DiscussIT 6</a>"
+        },
+        {
+          "_inherit": "header1",
+          "_styles": {
+            ".mbr-section-title": {
+              "color": "#ffffff",
+              "font-family": "'Montserrat', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700"
+            },
+            ".mbr-section-lead": {
+              "color": "#ffffff",
+              "font-family": "'Oxygen', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700"
+            },
+            ".btn": {
+              "font-family": "'Oxygen', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header5",
+          "_anchor": "header5-u",
+          "_params": {
+            "parallax": true,
+            "bgImageRadio": false,
+            "showArrow": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#f090c0",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#000",
+            "contentAlign": "center",
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true
+          },
+          "title": "Illustrator<br>",
+          "text": "<span style=\"font-style: normal;\">Click to View</span>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-warning\" href=\"#\" data-toolbar=\"-mbrBtnMove\">Download Here</a>"
+        },
+        {
+          "_inherit": "header1",
+          "_styles": {
+            ".mbr-section-title": {
+              "color": "#ffffff",
+              "font-family": "'Montserrat', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700"
+            },
+            ".mbr-section-lead": {
+              "color": "#ffffff",
+              "font-family": "'Oxygen', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700"
+            },
+            ".btn": {
+              "font-family": "'Oxygen', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header5",
+          "_anchor": "header5-v",
+          "_params": {
+            "parallax": true,
+            "bgImageRadio": false,
+            "showArrow": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#ff3e7c",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#000",
+            "contentAlign": "center",
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true
+          },
+          "title": "Photoshop&nbsp;",
+          "text": "<span style=\"font-style: normal;\">Click to View</span>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-black\" href=\"#\" data-toolbar=\"-mbrBtnMove\">Download Here</a>"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            },
+            "H3": {
+              "color": "#ed145a"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-2q",
+          "_params": {
+            "paddingTop": "0",
+            "paddingBottom": "1",
+            "bgColor": "#ffa4c1",
+            "showMeta": false
+          },
+          "title": "",
+          "meta": "By John Smith posted July 20, 2016"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .btn-social": {
+              "color": "#232323"
+            },
+            ".mbr-section-title": {
+              "color": "#ffffff",
+              "font-family": "'Montserrat', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "social-buttons2",
+          "_anchor": "social-buttons2-2c",
+          "_params": {
+            "paddingTop": "2",
+            "paddingBottom": "2",
+            "bgImageRadio": true,
+            "parallax": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/untitled-5-2000x1125-2.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": false,
+            "overlay": true,
+            "overlayOpacity": "0.6",
+            "overlayColor": "#008999"
+          },
+          "text": "FOLLOW ME",
+          "icons": "<a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Twitter\" target=\"_blank\" href=\"https://twitter.com/mobirise\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-twitter\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Facebook\" target=\"_blank\" href=\"https://www.facebook.com/pages/Mobirise/1616226671953247\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-facebook\"></i></a>  <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"YouTube\" target=\"_blank\" href=\"https://www.youtube.com/channel/UCt_tncVAetpK5JeM8L-8jyw\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-youtube\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Instagram\" target=\"_blank\" href=\"https://instagram.com/mobirise/\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-instagram\"></i></a>  <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Tumblr\" target=\"_blank\" href=\"http://mobirise.tumblr.com/\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-tumblr\"></i></a>    "
+        },
+        {
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff",
+              "font-size": "16px"
+            },
+            ".navbar-toggler": {
+              "color": "#ffffff"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#ffffff"
+            },
+            ".link, .dropdown-item": {
+              "color": "#ffffff",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lato:400,300,700",
+              "font-family": "'Lato', sans-serif"
+            },
+            ".link": {
+              "font-size": "0.8rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "0.866rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#181818"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#2a2a2a!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#323232"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#ffffff",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#c0a375!important"
+            },
+            ".btn": {
+              "font-family": "'Arimo', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Arimo:400,700"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "menu",
+          "_anchor": "menu-r",
+          "_params": {
+            "bgColor": "#323232",
+            "fontSize": "0.8",
+            "fontName": {
+              "name": "Lato",
+              "url": "https://fonts.googleapis.com/css?family=Lato:400,300,700",
+              "css": "'Lato', sans-serif"
+            },
+            "fontColor": "#ffffff",
+            "fontHoverColor": "@primaryColor",
+            "transparent": true,
+            "sticky": true,
+            "logo": true,
+            "showBrand": true,
+            "collapsed": true,
+            "hideButtons": true
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/bread-210x128-54.png",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "index.html",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"#top\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page3.html\">ABOUT ME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page2.html#gallery4-18\" aria-expanded=\"false\">GALLERY</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">APPLICATIONS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html#header5-u\">Adobe Illustrator CC<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\"></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html#header5-v\">Adobe Photoshop CC</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Adobe Premiere Pro CC</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Adobe Dreamweaver CC</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Adobe Audition CC</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Adobe Animate CC</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Adobe After Effects CC</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Adobe Lightroom</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\"></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html#header5-t\">Microsoft Word 2016<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Microsoft PowerPoint 2016</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">123D</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"#\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">CREDENTIALS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"/credentials/IllusCred.pdf\" target=\"_blank\">Adobe Illustrator CC<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\"></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Adobe Photoshop CC</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">IC3</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"PedroRodriguez101.github.io/documents/Pedro Rodriguez's Resume.pdf\" target=\"_blank\">Resume</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\"></a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"#\" aria-expanded=\"false\">REFERENCE</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page1.html\">HOMEWORK</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header3-f\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"/documents/Pedro Rodriguez's Resume.pdf\" target=\"_blank\">RESUME<br></a></li>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts4",
+          "_styles": {
+            ".btn": {
+              "font-family": "'Oxygen', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700"
+            },
+            "P": {
+              "font-family": "'Oxygen', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700",
+              "color": "#efefef"
+            },
+            "STRONG": {
+              "font-family": "'Montserrat', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700",
+              "color": "#ffffff"
+            },
+            "UL": {
+              "font-family": "'Oxygen', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700",
+              "color": "#ffffff"
+            }
+          },
+          "_anchor": "contacts4-1n",
+          "_params": {
+            "paddingTop": "2",
+            "paddingBottom": "2",
+            "bgImageRadio": true,
+            "parallax": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/untitled-5-2000x1125.jpg",
+            "bgColor": "#2e2e2e",
+            "bgColorRadio": false,
+            "overlay": true,
+            "overlayOpacity": "0.6",
+            "overlayColor": "#008999"
+          },
+          "text1": "<strong>Address</strong><br>15281 SW 26 TER<br>Miami, FL 33182<br><br><br>\n<strong>Contacts</strong><br>\nEmail: prodriguez@miamiartsstudio.com<br>\nPhone: 786-423-6392<br>",
+          "text2": "<p class=\"mbr-contacts__text\"><strong>Tunes&nbsp;</strong></p><ul class=\"mbr-contacts__list\"><li><a href=\"https://www.youtube.com/watch?v=Vl2Rmw5hsao\" target=\"_blank\">Young Robot</a></li><li><a href=\"https://www.youtube.com/watch?v=NQunCjYdAcU\" target=\"_blank\">Cave Me In</a></li><li><a href=\"https://www.youtube.com/watch?v=6UosfX5u14g\" target=\"_blank\" class=\"text-white\">The Eye of Truth</a></li></ul>",
+          "form": {
+            "title": "MESSAGE",
+            "action": "prodriguez@miamiartsstudio.com",
+            "alerts": {
+              "success": "Thanks for filling out form!"
+            },
+            "fields": {
+              "name": {
+                "title": "Name",
+                "visible": false,
+                "customTitle": "Name*"
+              },
+              "email": {
+                "title": "Email",
+                "visible": true,
+                "customTitle": "Email*"
+              },
+              "phone": {
+                "title": "Phone",
+                "visible": false,
+                "customTitle": "Phone"
+              },
+              "message": {
+                "title": "Message",
+                "customTitle": "Message"
+              }
+            }
+          },
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-danger\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove,-mbrBtnRemove\">Contact Me</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "footer1",
+          "_styles": {
+            "P": {
+              "font-family": "'Oxygen', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700",
+              "font-size": "14px",
+              "color": "#ffffff"
+            }
+          },
+          "_anchor": "footer1-2l",
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#323232",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#444444"
+          },
+          "text": "Copyright (c) 2017 TFProdructions"
+        }
+      ]
+    },
+    "page2.html": {
+      "settings": {
+        "title": "Web Maker Title",
+        "meta_descr": "Web Maker Description"
+      },
+      "components": [
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            },
+            "H3": {
+              "color": "#ed145a"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-2k",
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "3",
+            "bgColor": "#ffa4c1",
+            "showMeta": false
+          },
+          "title": "",
+          "meta": "By John Smith posted July 20, 2016"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, p": {
+              "color": "#fff"
+            },
+            ".mbr-section-title": {
+              "font-family": "'Montserrat', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box8",
+          "_anchor": "msg-box8-2f",
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "parallax": true,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/67-1-2000x1125.jpg",
+            "bgColor": "#F2F2F2",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": "0.5",
+            "overlayColor": "#005b66",
+            "showTitle": true,
+            "showText": true,
+            "showButton": false
+          },
+          "title": "The Goods<br>",
+          "text": "<p>Take a Gander.</p>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            },
+            "H3": {
+              "color": "#ed145a"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-2s",
+          "_params": {
+            "paddingTop": "0",
+            "paddingBottom": "1",
+            "bgColor": "#ffa4c1",
+            "showMeta": false
+          },
+          "title": "",
+          "meta": "By John Smith posted July 20, 2016"
+        },
+        {
+          "_inherit": "gallery1",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "gallery4",
+          "_styles": {
+            "LI": {
+              "color": "#ffffff"
+            }
+          },
+          "_params": {
+            "paddingTop": 0,
+            "paddingBottom": 0,
+            "images": [
+              {
+                "tags": "Illustrator",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/tv-1-2000x2000-800x800.png",
+                "image": "@PROJECT_PATH@/assets/images/tv-1-2000x2000.png",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Photoshop",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/untitled-2-6-2000x2000-800x800.png",
+                "image": "@PROJECT_PATH@/assets/images/untitled-2-6-2000x2000.png",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Photoshop",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/6-2000x2000-800x800.png",
+                "image": "@PROJECT_PATH@/assets/images/6-2000x2000.png",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Sketches",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/cover-art-2000x2000-800x800.jpg",
+                "image": "@PROJECT_PATH@/assets/images/cover-art-2000x2000.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Sketches",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/sketch-2000x2000-800x800.jpg",
+                "image": "@PROJECT_PATH@/assets/images/sketch-2000x2000.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Illustrator",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/moon-tattoo-redux-2-2000x2000-800x800.jpg",
+                "image": "@PROJECT_PATH@/assets/images/moon-tattoo-redux-2-2000x2000.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Illustrator",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/exploded-2000x2000-800x800.jpg",
+                "image": "@PROJECT_PATH@/assets/images/exploded-2000x2000.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Illustrator",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/image-in-tv-2-2000x2000-800x800.jpg",
+                "image": "@PROJECT_PATH@/assets/images/image-in-tv-2-2000x2000.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Illustrator",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/vw-2000x2000-800x800.jpg",
+                "image": "@PROJECT_PATH@/assets/images/vw-2000x2000.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Photoshop",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/key-1-2000x2000-800x800.png",
+                "image": "@PROJECT_PATH@/assets/images/key-1-2000x2000.png",
+                "caption": "<b>Before</b> Retouch - <i>1st</i> Place Winner of Photo-Retouching Contest held at County Fair, 2016",
+                "active": false
+              },
+              {
+                "tags": "Photoshop",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/after-1-2000x2000-800x800.png",
+                "image": "@PROJECT_PATH@/assets/images/after-1-2000x2000.png",
+                "caption": "<b>After</b> Retouch - <i>1st</i> Place Winner of Photo-Retouching Contest held at County Fair, 2016",
+                "active": false
+              },
+              {
+                "tags": "Photography",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/f2-2000x1333-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/f2-2000x1333.jpg",
+                "caption": "",
+                "active": false
+              },
+              {
+                "tags": "Photography",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/kraken-2-2000x1333-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/kraken-2-2000x1333.jpg",
+                "caption": "",
+                "active": false
+              },
+              {
+                "tags": "Photography",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/red-2-2000x1333-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/red-2-2000x1333.jpg",
+                "caption": "",
+                "active": false
+              },
+              {
+                "tags": "Photography",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/tree-2-2000x1333-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/tree-2-2000x1333.jpg",
+                "caption": "",
+                "active": false
+              },
+              {
+                "tags": "Photography",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-20170129-225717-1-2000x2500-800x1000.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img-20170129-225717-1-2000x2500.jpg",
+                "caption": "",
+                "active": false
+              },
+              {
+                "tags": "Photography",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/bottle-2-2000x1333-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/bottle-2-2000x1333.jpg",
+                "caption": "",
+                "active": false
+              },
+              {
+                "tags": "Photography",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/distant-past-2-2000x1333-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/distant-past-2-2000x1333.jpg",
+                "caption": "",
+                "active": false
+              },
+              {
+                "tags": "Photography",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/cam-2-2000x1333-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/cam-2-2000x1333.jpg",
+                "caption": "",
+                "active": false
+              },
+              {
+                "tags": "Photography",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/dramatic-1-2000x1333-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/dramatic-1-2000x1333.jpg",
+                "caption": "",
+                "active": false
+              },
+              {
+                "tags": "Photography",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/oi-2000x1333-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/oi-2000x1333.jpg",
+                "caption": "",
+                "active": false
+              },
+              {
+                "tags": "Photography",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/bottle-2000x1333-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/bottle-2000x1333.jpg",
+                "caption": "",
+                "active": false
+              },
+              {
+                "tags": "Illustrator",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/ufo-1-2000x2000-800x800.jpg",
+                "image": "@PROJECT_PATH@/assets/images/ufo-1-2000x2000.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Illustrator",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/mayo-1-2000x2000-800x800.jpg",
+                "image": "@PROJECT_PATH@/assets/images/mayo-1-2000x2000.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Illustrator",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/sandwich-1-2000x2000-800x800.jpg",
+                "image": "@PROJECT_PATH@/assets/images/sandwich-1-2000x2000.jpg",
+                "caption": "Type caption here",
+                "active": true
+              },
+              {
+                "tags": "Illustrator",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/illusion-2000x1333-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/illusion-2000x1333.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Illustrator",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/8-2000x1333-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/8-2000x1333.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Illustrator",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/moon-man-2000x1333-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/moon-man-2000x1333.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Photography",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/1-2000x1000-800x400.jpg",
+                "image": "@PROJECT_PATH@/assets/images/1-2000x1000.jpg",
+                "caption": "",
+                "active": false
+              },
+              {
+                "tags": "Photography",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/2-2000x1000-800x400.jpg",
+                "image": "@PROJECT_PATH@/assets/images/2-2000x1000.jpg",
+                "caption": "",
+                "active": false
+              },
+              {
+                "tags": "Photography",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/3-2000x1000-800x400.jpg",
+                "image": "@PROJECT_PATH@/assets/images/3-2000x1000.jpg",
+                "caption": "",
+                "active": false
+              },
+              {
+                "tags": "Photography",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/4-2000x1000-800x400.jpg",
+                "image": "@PROJECT_PATH@/assets/images/4-2000x1000.jpg",
+                "caption": "",
+                "active": false
+              },
+              {
+                "tags": "Photography",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/5-2000x1000-800x400.jpg",
+                "image": "@PROJECT_PATH@/assets/images/5-2000x1000.jpg",
+                "caption": "",
+                "active": false
+              },
+              {
+                "tags": "Photography",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/6-2000x1000-800x400.jpg",
+                "image": "@PROJECT_PATH@/assets/images/6-2000x1000.jpg",
+                "caption": "",
+                "active": false
+              },
+              {
+                "tags": "Photography",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/7-2000x1000-800x400.jpg",
+                "image": "@PROJECT_PATH@/assets/images/7-2000x1000.jpg",
+                "caption": "",
+                "active": false
+              },
+              {
+                "tags": "Photography",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/8-2000x1000-800x400.jpg",
+                "image": "@PROJECT_PATH@/assets/images/8-2000x1000.jpg",
+                "caption": "",
+                "active": false
+              },
+              {
+                "tags": "Photography",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/9-2000x1000-800x400.jpg",
+                "image": "@PROJECT_PATH@/assets/images/9-2000x1000.jpg",
+                "caption": "",
+                "active": false
+              },
+              {
+                "tags": "Photography",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/10-2000x1000-800x400.jpg",
+                "image": "@PROJECT_PATH@/assets/images/10-2000x1000.jpg",
+                "caption": "",
+                "active": false
+              },
+              {
+                "tags": "Photography",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=zoqPoAKR9jQ",
+                "videoPreview": "@PROJECT_PATH@/2017-02-22_20-59-47.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/11-2000x1000-800x400.jpg",
+                "image": "@PROJECT_PATH@/assets/images/11-2000x1000.jpg",
+                "caption": "",
+                "active": false
+              },
+              {
+                "tags": "Film",
+                "playVideo": true,
+                "videoUrl": "https://www.youtube.com/watch?v=r9f3ZBoY4hM",
+                "videoPreview": "@PROJECT_PATH@/assets/images/2017-02-23-08-04-43.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/11-2000x1000-800x400.jpg",
+                "image": "@PROJECT_PATH@/assets/images/11-2000x1000.jpg",
+                "caption": "",
+                "active": false
+              }
+            ],
+            "spacing": 1,
+            "showText": false,
+            "filter": true,
+            "bgColor": "#f090c0",
+            "filterBgColor": false,
+            "fullWidth": false,
+            "showBullets": true
+          },
+          "_anchor": "gallery4-18",
+          "articleLayout": false,
+          "allItem": "All"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            },
+            "H3": {
+              "color": "#ed145a"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-2r",
+          "_params": {
+            "paddingTop": "0",
+            "paddingBottom": "1",
+            "bgColor": "#ffa4c1",
+            "showMeta": false
+          },
+          "title": "",
+          "meta": "By John Smith posted July 20, 2016"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .btn-social": {
+              "color": "#232323"
+            },
+            ".mbr-section-title": {
+              "color": "#ffffff",
+              "font-family": "'Montserrat', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "social-buttons2",
+          "_anchor": "social-buttons2-2d",
+          "_params": {
+            "paddingTop": "2",
+            "paddingBottom": "2",
+            "bgImageRadio": true,
+            "parallax": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/untitled-5-2000x1125-2.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": false,
+            "overlay": true,
+            "overlayOpacity": "0.6",
+            "overlayColor": "#008999"
+          },
+          "text": "FOLLOW ME",
+          "icons": "<a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Twitter\" target=\"_blank\" href=\"https://twitter.com/mobirise\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-twitter\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Facebook\" target=\"_blank\" href=\"https://www.facebook.com/pages/Mobirise/1616226671953247\"><i class=\"socicon socicon-facebook\"></i></a>  <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"YouTube\" target=\"_blank\" href=\"https://www.youtube.com/channel/UCt_tncVAetpK5JeM8L-8jyw\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-youtube\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Instagram\" target=\"_blank\" href=\"https://instagram.com/mobirise/\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-instagram\"></i></a>      "
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts4",
+          "_styles": {
+            ".btn": {
+              "font-family": "'Oxygen', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700"
+            },
+            "P": {
+              "font-family": "'Oxygen', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700",
+              "color": "#efefef"
+            },
+            "STRONG": {
+              "font-family": "'Montserrat', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700",
+              "color": "#ffffff"
+            },
+            "UL": {
+              "font-family": "'Oxygen', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700",
+              "color": "#ffffff"
+            }
+          },
+          "_anchor": "contacts4-1n",
+          "_params": {
+            "paddingTop": "2",
+            "paddingBottom": "2",
+            "bgImageRadio": true,
+            "parallax": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/untitled-5-2000x1125.jpg",
+            "bgColor": "#2e2e2e",
+            "bgColorRadio": false,
+            "overlay": true,
+            "overlayOpacity": "0.6",
+            "overlayColor": "#008999"
+          },
+          "text1": "<strong>Address</strong><br>15281 SW 26 TER<br>Miami, FL 33182<br><br><br>\n<strong>Contacts</strong><br>\nEmail: prodriguez@miamiartsstudio.com<br>\nPhone: 786-423-6392<br>",
+          "text2": "<p class=\"mbr-contacts__text\"><strong>Tunes&nbsp;</strong></p><ul class=\"mbr-contacts__list\"><li><a href=\"https://www.youtube.com/watch?v=Vl2Rmw5hsao\" target=\"_blank\">Young Robot</a></li><li><a href=\"https://www.youtube.com/watch?v=NQunCjYdAcU\" target=\"_blank\">Cave Me In</a></li><li><a href=\"https://www.youtube.com/watch?v=6UosfX5u14g\" target=\"_blank\" class=\"text-white\">The Eye of Truth</a></li></ul>",
+          "form": {
+            "title": "MESSAGE",
+            "action": "prodriguez@miamiartsstudio.com",
+            "alerts": {
+              "success": "Thanks for filling out form!"
+            },
+            "fields": {
+              "name": {
+                "title": "Name",
+                "visible": false,
+                "customTitle": "Name*"
+              },
+              "email": {
+                "title": "Email",
+                "visible": true,
+                "customTitle": "Email*"
+              },
+              "phone": {
+                "title": "Phone",
+                "visible": false,
+                "customTitle": "Phone"
+              },
+              "message": {
+                "title": "Message",
+                "customTitle": "Message"
+              }
+            }
+          },
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-danger\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove,-mbrBtnRemove\">Contact Me</a>"
+        },
+        {
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff",
+              "font-size": "16px"
+            },
+            ".navbar-toggler": {
+              "color": "#ffffff"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#ffffff"
+            },
+            ".link, .dropdown-item": {
+              "color": "#ffffff",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lato:400,300,700",
+              "font-family": "'Lato', sans-serif"
+            },
+            ".link": {
+              "font-size": "0.8rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "0.866rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#181818"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#2a2a2a!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#323232"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#ffffff",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#c0a375!important"
+            },
+            ".btn": {
+              "font-family": "'Arimo', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Arimo:400,700"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "menu",
+          "_anchor": "menu-r",
+          "_params": {
+            "bgColor": "#323232",
+            "fontSize": "0.8",
+            "fontName": {
+              "name": "Lato",
+              "url": "https://fonts.googleapis.com/css?family=Lato:400,300,700",
+              "css": "'Lato', sans-serif"
+            },
+            "fontColor": "#ffffff",
+            "fontHoverColor": "@primaryColor",
+            "transparent": true,
+            "sticky": true,
+            "logo": true,
+            "showBrand": true,
+            "collapsed": true,
+            "hideButtons": true
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/bread-210x128-54.png",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "index.html",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"#top\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page3.html\">ABOUT ME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page2.html#gallery4-18\" aria-expanded=\"false\">GALLERY</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">APPLICATIONS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html#header5-u\">Adobe Illustrator CC<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\"></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html#header5-v\">Adobe Photoshop CC</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Adobe Premiere Pro CC</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Adobe Dreamweaver CC</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Adobe Audition CC</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Adobe Animate CC</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Adobe After Effects CC</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Adobe Lightroom</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\"></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html#header5-t\">Microsoft Word 2016<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Microsoft PowerPoint 2016</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">123D</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"#\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">CREDENTIALS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"/credentials/IllusCred.pdf\" target=\"_blank\">Adobe Illustrator CC<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\"></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Adobe Photoshop CC</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">IC3</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"PedroRodriguez101.github.io/documents/Pedro Rodriguez's Resume.pdf\" target=\"_blank\">Resume</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\"></a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"#\" aria-expanded=\"false\">REFERENCE</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page1.html\">HOMEWORK</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header3-f\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"/documents/Pedro Rodriguez's Resume.pdf\" target=\"_blank\">RESUME<br></a></li>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "footer1",
+          "_anchor": "footer1-2l",
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#323232",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#444444"
+          },
+          "text": "Copyright (c) 2017 TFProdructions",
+          "_styles": {
+            "P": {
+              "font-family": "'Oxygen', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700",
+              "font-size": "14px",
+              "color": "#ffffff"
+            }
+          }
+        }
+      ]
+    },
+    "page3.html": {
+      "settings": {
+        "title": "Website Maker Title",
+        "meta_descr": "Website Maker Description"
+      },
+      "components": [
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            },
+            "H3": {
+              "color": "#ed145a"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-1x",
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "3",
+            "bgColor": "#ffa4c1",
+            "showMeta": false
+          },
+          "title": "",
+          "meta": "By John Smith posted July 20, 2016"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header2",
+          "_styles": {
+            ".mbr-section-title": {
+              "font-family": "'Montserrat', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700"
+            },
+            ".mbr-section-text": {
+              "font-family": "'Oxygen', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700"
+            },
+            ".btn": {
+              "font-family": "'Oxygen', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700"
+            }
+          },
+          "_anchor": "header2-1p",
+          "_params": {
+            "imageSize": "50",
+            "parallax": true,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/untitled-3-2000x1125.jpg",
+            "bgColor": "#2e2e2e",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": 0.3,
+            "overlayColor": "#000000",
+            "inverse": true,
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true,
+            "showArrow": false
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/untitled-1400x700.jpg",
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-header2",
+              "link": "",
+              "size": 250
+            }
+          },
+          "title": "Pedro Rodriguez",
+          "text": "I'm a lover of film, photography, graphic design and literature. <br>Oh and food, yeah that too.",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-danger\" href=\"page3.html#msg-box8-1w\" data-toolbar=\"-mbrBtnMove\">MORE</a>"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            },
+            "H3": {
+              "color": "#ed145a"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-29",
+          "_params": {
+            "paddingTop": "0",
+            "paddingBottom": "1",
+            "bgColor": "#ffa4c1",
+            "showMeta": false
+          },
+          "title": "",
+          "meta": "By John Smith posted July 20, 2016"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, p": {
+              "color": "#fff"
+            },
+            ".lead": {
+              "color": "#ffd07a",
+              "font-family": "'Oxygen', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700"
+            },
+            ".mbr-section-title": {
+              "font-family": "'Montserrat', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700",
+              "font-size": "48px"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box8",
+          "_anchor": "msg-box8-27",
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "parallax": true,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/untitled-5-2000x1125-1.jpg",
+            "bgColor": "#F2F2F2",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": "0.5",
+            "overlayColor": "#008999",
+            "showTitle": true,
+            "showText": true,
+            "showButton": false
+          },
+          "title": "Some Things You Should Know",
+          "text": "It's Kinda Hot in Here",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>"
+        },
+        {
+          "_inherit": "features3",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "features6",
+          "_styles": {
+            "H5": {
+              "font-family": "'Oxygen', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700",
+              "color": "#ffffff",
+              "font-size": "15px"
+            },
+            "H4": {
+              "color": "#ffffff",
+              "font-family": "'Montserrat', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700"
+            },
+            "P": {
+              "font-family": "'Oxygen', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700",
+              "color": "#ffffff",
+              "text-align": "left"
+            },
+            "SPAN": {
+              "color": "#ffd07a",
+              "font-family": "'Roboto', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Roboto:400,300,700"
+            }
+          },
+          "_anchor": "features6-26",
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": true,
+            "parallax": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/miami-is-flooding-1-2000x1125.jpg",
+            "bgColor": "#ffa2eb",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": "0.8",
+            "overlayColor": "#87587d",
+            "columns": 4,
+            "showImages": true,
+            "showTitles": true,
+            "showSubtitles": true,
+            "ShowTexts": true,
+            "showButtons": false
+          },
+          "media1": {
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features3",
+              "linkInNewWindow": false,
+              "name": "home",
+              "family": "MobiriseIcons",
+              "active": true,
+              "link": "",
+              "size": "",
+              "newWindow": false,
+              "color": "#ffffff"
+            }
+          },
+          "title1": "Lifestyle",
+          "subtitle1": "<span style=\"font-style: normal;\">Mild</span>",
+          "caption1": "Been living in a middle class household in Miami, Florida for basically all my life. My family have helped me a great deal, I hope I'll be staying in the area to finish off school and still be around them.",
+          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
+          "media2": {
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features3",
+              "linkInNewWindow": false,
+              "name": "trash",
+              "family": "MobiriseIcons",
+              "active": true,
+              "link": "",
+              "size": 0,
+              "color": "#ffffff",
+              "newWindow": false
+            }
+          },
+          "title2": "Hobbies",
+          "subtitle2": "<span style=\"font-style: normal;\">Hot</span>",
+          "caption2": "I absolutely love playing video games, I've been doing it for years and I don't think I'll ever stop. Though for a change of pace, I also love writing; whether it be short stories, scripts or full-blown novels - love doing it all.",
+          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
+          "media3": {
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features3",
+              "linkInNewWindow": false,
+              "name": "paper-plane",
+              "family": "MobiriseIcons",
+              "active": true,
+              "link": "",
+              "size": 0,
+              "color": "#ffffff",
+              "newWindow": false
+            }
+          },
+          "title3": "School",
+          "subtitle3": "<span style=\"font-style: normal;\">Flammin' Hot</span>",
+          "caption3": "I went to a magnet school by the name of <i>Miami Arts Studio</i>. I went there for 7 years of my life and learned plenty of stuff ranging from Digital Design, Art, Stage Design, Film Making, Photography, Creative Writing, and much more.",
+          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
+          "media4": {
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features3",
+              "linkInNewWindow": false,
+              "name": "rocket",
+              "family": "MobiriseIcons",
+              "active": true,
+              "link": "",
+              "size": 0,
+              "color": "#ffffff",
+              "newWindow": false
+            }
+          },
+          "title4": "The Future",
+          "subtitle4": "<span style=\"font-style: normal;\">Actually on Fire</span>",
+          "caption4": "My real passions and things I'd hope to incorporate into a career choice are: Photography, Cinematography, Film, and Writing. I hope to go to a highly acclaimed University and make it into the industry I desire to be apart of.",
+          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media5": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-features3",
+              "name": "global",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "family": "et-line"
+            }
+          },
+          "title5": "Trendy Website Blocks",
+          "subtitle5": "Choose from the large selection of blocks",
+          "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media6": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-features3",
+              "name": "global",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "family": "et-line"
+            }
+          },
+          "title6": "Host Anywhere",
+          "subtitle6": "Don't limit yourself to just one platform",
+          "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
+          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, p": {
+              "color": "#fff"
+            },
+            ".mbr-section-title": {
+              "font-family": "'Montserrat', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700",
+              "color": "#ffffff"
+            },
+            ".lead P": {
+              "font-family": "'Oxygen', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700",
+              "color": "#ffd07a"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box8",
+          "_anchor": "msg-box8-2h",
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "parallax": true,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/desert.jpg",
+            "bgColor": "#F2F2F2",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "width": 1280,
+              "height": 720,
+              "url": "https://www.youtube.com/embed/EmBbHpALa50?rel=0&amp;showinfo=0&autoplay=0&loop=0"
+            },
+            "bgVideoRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#00c8e1",
+            "showTitle": true,
+            "showText": true,
+            "showButton": false
+          },
+          "title": "I'LL CHANGE THIS",
+          "text": "<p>At Some Point</p>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, p": {
+              "color": "#fff"
+            },
+            ".lead": {
+              "color": "#ffd07a",
+              "font-family": "'Oxygen', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700"
+            },
+            ".mbr-section-title": {
+              "font-family": "'Montserrat', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box8",
+          "_anchor": "msg-box8-1w",
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "parallax": true,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/untitled-5-2000x1125.jpg",
+            "bgColor": "#F2F2F2",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": "0.5",
+            "overlayColor": "#008999",
+            "showTitle": true,
+            "showText": true,
+            "showButton": false
+          },
+          "title": "BIOGRAPHY",
+          "text": "Much Needed Lore",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, p": {
+              "color": "#fff"
+            },
+            "DIV": {
+              "color": "#ffffff",
+              "font-family": "'Oxygen', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content5",
+          "_anchor": "content5-2i",
+          "_params": {
+            "paddingTop": "2",
+            "paddingBottom": "2",
+            "bgImageRadio": true,
+            "parallax": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/miami-is-flooding-1-2000x1125.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": "0.8",
+            "overlayColor": "#87587d",
+            "showTitle": false,
+            "showCaption": true
+          },
+          "title": "BACKGROUND IMAGE",
+          "caption": "I first experienced tech when I was a wee lad in my father’s house, back when my parents&nbsp;<span style=\"font-size: 1.07rem; line-height: 1.5;\">weren’t even living together. I remember watching an old movie, animated by Disney called Dinosaur. I remember being fascinated by how real everything looked in that movie and of course, I later thought of how they created the movie. My Dad later explained that it was done by computers and </span><i style=\"font-size: 1.07rem; line-height: 1.5;\">smart people</i><span style=\"font-size: 1.07rem; line-height: 1.5;\">. But I didn’t really think much of it afterwards. Then after we all moved into a new house as a family, My Mom got my Dad into video games by getting him an Xbox; and the only game we had was Godzilla:&nbsp;</span><span style=\"font-size: 1.07rem; line-height: 1.5;\">Earth Defenders. That was the first video game I had ever experienced and actually had a connection. I guess I somehow related to giant monsters whom leveled cities. Though, from there on I’ve been a huge&nbsp;</span><span style=\"font-size: 1.07rem; line-height: 1.5;\">fan of video games.</span><div><span style=\"font-size: 1.07rem; line-height: 1.5;\"><br></span></div><div><span style=\"font-size: 1.07rem; line-height: 1.5;\">When I reached elementary school, I started reading lots of books - became infatuated with all these novels, mangas and comics alike. This later led to me grabbing a bunch of copy paper and stapling it altogether and creating my own graphic novels. I became a little writer I guess, but I never stopped&nbsp;</span><span style=\"font-size: 1.07rem; line-height: 1.5;\">playing video games. I even took art class for numerous years in elementary and in middle school. Later on I grew older, obviously, and with that I played more video games and watched more movies. The budget of them all grew exponentially. The CGI in movies became life like, video games became more&nbsp;</span><span style=\"font-size: 1.07rem; line-height: 1.5;\">cinematic with the way their characters were shown and acted along with their graphics. All this inspired me to write better, I wanted to be an author. I wanted to grow up and write the scripts and stories for video games and movies. So I joined a creative writing magnet in the school I was attending.&nbsp;</span></div><div><span style=\"font-size: 1.07rem; line-height: 1.5;\"><br></span></div><div><span style=\"font-size: 1.07rem; line-height: 1.5;\">But at the end of that year, the program was canned. So I didn’t really have anything to really suffice my artistic needs I guess you could say. I didn’t really want to take art anymore and the writing class no longer existed. I thought about joining in drama over that summer but I decided to sign up&nbsp;</span><span style=\"font-size: 1.07rem; line-height: 1.5;\">Digital Media Design instead. I didn’t really know what the class was about. I was kind of hoping it’d be the class that would fill the hole. I still wanted to be a so many things at the time: a writer, actor, video game designer, director or even a photographer. I didn’t really know what I wanted. But I know for sure that I want to work in the film or video game industry and I want to create content with tech for the rest of my life; whether it may be writing scripts for big time movies or games, creating art for those games, designing advertisements for the films.</span></div>"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            },
+            "H3": {
+              "color": "#ed145a"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-25",
+          "_params": {
+            "paddingTop": "0",
+            "paddingBottom": "1",
+            "bgColor": "#ffa4c1",
+            "showMeta": false
+          },
+          "title": "",
+          "meta": "By John Smith posted July 20, 2016"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .btn-social": {
+              "color": "#232323"
+            },
+            ".mbr-section-title": {
+              "color": "#ffffff",
+              "font-family": "'Montserrat', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "social-buttons2",
+          "_anchor": "social-buttons2-2a",
+          "_params": {
+            "paddingTop": "2",
+            "paddingBottom": "2",
+            "bgImageRadio": true,
+            "parallax": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/untitled-5-2000x1125.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": false,
+            "overlay": true,
+            "overlayOpacity": "0.6",
+            "overlayColor": "#008999"
+          },
+          "text": "FOLLOW ME",
+          "icons": "<a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Twitter\" target=\"_blank\" href=\"https://twitter.com/mobirise\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-twitter\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Facebook\" target=\"_blank\" href=\"https://www.facebook.com/pages/Mobirise/1616226671953247\"><i class=\"socicon socicon-facebook\"></i></a>  <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"YouTube\" target=\"_blank\" href=\"https://www.youtube.com/channel/UCt_tncVAetpK5JeM8L-8jyw\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-youtube\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Instagram\" target=\"_blank\" href=\"https://instagram.com/mobirise/\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-instagram\"></i></a>  <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Tumblr\" target=\"_blank\" href=\"http://mobirise.tumblr.com/\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-tumblr\"></i></a>    "
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts4",
+          "_styles": {
+            ".btn": {
+              "font-family": "'Oxygen', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700"
+            },
+            "P": {
+              "font-family": "'Oxygen', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700",
+              "color": "#efefef"
+            },
+            "STRONG": {
+              "font-family": "'Montserrat', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700",
+              "color": "#ffffff"
+            },
+            "UL": {
+              "font-family": "'Oxygen', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700",
+              "color": "#ffffff"
+            }
+          },
+          "_anchor": "contacts4-1n",
+          "_params": {
+            "paddingTop": "2",
+            "paddingBottom": "2",
+            "bgImageRadio": true,
+            "parallax": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/untitled-5-2000x1125.jpg",
+            "bgColor": "#2e2e2e",
+            "bgColorRadio": false,
+            "overlay": true,
+            "overlayOpacity": "0.6",
+            "overlayColor": "#008999"
+          },
+          "text1": "<strong>Address</strong><br>15281 SW 26 TER<br>Miami, FL 33182<br><br><br>\n<strong>Contacts</strong><br>\nEmail: prodriguez@miamiartsstudio.com<br>\nPhone: 786-423-6392<br>",
+          "text2": "<p class=\"mbr-contacts__text\"><strong>Tunes&nbsp;</strong></p><ul class=\"mbr-contacts__list\"><li><a href=\"https://www.youtube.com/watch?v=Vl2Rmw5hsao\" target=\"_blank\">Young Robot</a></li><li><a href=\"https://www.youtube.com/watch?v=NQunCjYdAcU\" target=\"_blank\">Cave Me In</a></li><li><a href=\"https://www.youtube.com/watch?v=6UosfX5u14g\" target=\"_blank\" class=\"text-white\">The Eye of Truth</a></li></ul>",
+          "form": {
+            "title": "MESSAGE",
+            "action": "prodriguez@miamiartsstudio.com",
+            "alerts": {
+              "success": "Thanks for filling out form!"
+            },
+            "fields": {
+              "name": {
+                "title": "Name",
+                "visible": false,
+                "customTitle": "Name*"
+              },
+              "email": {
+                "title": "Email",
+                "visible": true,
+                "customTitle": "Email*"
+              },
+              "phone": {
+                "title": "Phone",
+                "visible": false,
+                "customTitle": "Phone"
+              },
+              "message": {
+                "title": "Message",
+                "customTitle": "Message"
+              }
+            }
+          },
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-danger\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove,-mbrBtnRemove\">Contact Me</a>"
+        },
+        {
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff",
+              "font-size": "16px"
+            },
+            ".navbar-toggler": {
+              "color": "#ffffff"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#ffffff"
+            },
+            ".link, .dropdown-item": {
+              "color": "#ffffff",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lato:400,300,700",
+              "font-family": "'Lato', sans-serif"
+            },
+            ".link": {
+              "font-size": "0.8rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "0.866rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#181818"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#2a2a2a!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#323232"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#ffffff",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#c0a375!important"
+            },
+            ".btn": {
+              "font-family": "'Arimo', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Arimo:400,700"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "menu",
+          "_anchor": "menu-r",
+          "_params": {
+            "bgColor": "#323232",
+            "fontSize": "0.8",
+            "fontName": {
+              "name": "Lato",
+              "url": "https://fonts.googleapis.com/css?family=Lato:400,300,700",
+              "css": "'Lato', sans-serif"
+            },
+            "fontColor": "#ffffff",
+            "fontHoverColor": "@primaryColor",
+            "transparent": true,
+            "sticky": true,
+            "logo": true,
+            "showBrand": true,
+            "collapsed": true,
+            "hideButtons": true
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/bread-210x128-54.png",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "index.html",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"#top\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page3.html\">ABOUT ME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page2.html#gallery4-18\" aria-expanded=\"false\">GALLERY</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">APPLICATIONS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html#header5-u\">Adobe Illustrator CC<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\"></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html#header5-v\">Adobe Photoshop CC</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Adobe Premiere Pro CC</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Adobe Dreamweaver CC</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Adobe Audition CC</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Adobe Animate CC</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Adobe After Effects CC</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Adobe Lightroom</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\"></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html#header5-t\">Microsoft Word 2016<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Microsoft PowerPoint 2016</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">123D</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"#\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">CREDENTIALS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"/credentials/IllusCred.pdf\" target=\"_blank\">Adobe Illustrator CC<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\"></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Adobe Photoshop CC</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">IC3</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"PedroRodriguez101.github.io/documents/Pedro Rodriguez's Resume.pdf\" target=\"_blank\">Resume</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\"></a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"#\" aria-expanded=\"false\">REFERENCE</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page1.html\">HOMEWORK</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header3-f\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"/documents/Pedro Rodriguez's Resume.pdf\" target=\"_blank\">RESUME<br></a></li>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "footer1",
+          "_styles": {
+            "P": {
+              "font-family": "'Oxygen', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700",
+              "font-size": "14px",
+              "color": "#ffffff"
+            }
+          },
+          "_anchor": "footer1-2l",
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#323232",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#444444"
+          },
+          "text": "Copyright (c) 2017 TFProdructions"
+        }
+      ]
+    }
+  }
+}
