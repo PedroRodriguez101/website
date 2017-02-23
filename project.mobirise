@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "page1.html",
+    "currentPage": "index.html",
     "name": "My Site",
     "theme": {
       "name": "mobirise3",
@@ -149,7 +149,7 @@
             "paddingBottom": "2",
             "bgImageRadio": true,
             "parallax": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/untitled-5-2000x1125-2.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/untitled-4-2000x1125.jpg",
             "bgColor": "#fff",
             "bgColorRadio": false,
             "overlay": true,
@@ -213,7 +213,7 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
-              "color": "#c0a375!important"
+              "color": "#ffffff!important"
             }
           },
           "_name": "ext.menu",
@@ -290,7 +290,7 @@
             "bgColor": "#2e2e2e",
             "bgColorRadio": false,
             "overlay": true,
-            "overlayOpacity": "0.6",
+            "overlayOpacity": "0.5",
             "overlayColor": "#008999"
           },
           "text1": "<strong>Address</strong><br>15281 SW 26 TER<br>Miami, FL 33182<br><br><br>\n<strong>Contacts</strong><br>\nEmail: prodriguez@miamiartsstudio.com<br>\nPhone: 786-423-6392<br>",
@@ -566,7 +566,7 @@
             "paddingBottom": "2",
             "bgImageRadio": true,
             "parallax": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/untitled-5-2000x1125-2.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/untitled-4-2000x1125.jpg",
             "bgColor": "#fff",
             "bgColorRadio": false,
             "overlay": true,
@@ -625,7 +625,7 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
-              "color": "#c0a375!important"
+              "color": "#ffffff!important"
             },
             ".btn": {
               "font-family": "'Arimo', sans-serif",
@@ -709,7 +709,7 @@
             "bgColor": "#2e2e2e",
             "bgColorRadio": false,
             "overlay": true,
-            "overlayOpacity": "0.6",
+            "overlayOpacity": "0.5",
             "overlayColor": "#008999"
           },
           "text1": "<strong>Address</strong><br>15281 SW 26 TER<br>Miami, FL 33182<br><br><br>\n<strong>Contacts</strong><br>\nEmail: prodriguez@miamiartsstudio.com<br>\nPhone: 786-423-6392<br>",
@@ -1336,7 +1336,7 @@
             "paddingBottom": "2",
             "bgImageRadio": true,
             "parallax": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/untitled-5-2000x1125-2.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/untitled-4-2000x1125.jpg",
             "bgColor": "#fff",
             "bgColorRadio": false,
             "overlay": true,
@@ -1382,7 +1382,7 @@
             "bgColor": "#2e2e2e",
             "bgColorRadio": false,
             "overlay": true,
-            "overlayOpacity": "0.6",
+            "overlayOpacity": "0.5",
             "overlayColor": "#008999"
           },
           "text1": "<strong>Address</strong><br>15281 SW 26 TER<br>Miami, FL 33182<br><br><br>\n<strong>Contacts</strong><br>\nEmail: prodriguez@miamiartsstudio.com<br>\nPhone: 786-423-6392<br>",
@@ -1466,7 +1466,7 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
-              "color": "#c0a375!important"
+              "color": "#ffffff!important"
             },
             ".btn": {
               "font-family": "'Arimo', sans-serif",
@@ -1688,7 +1688,7 @@
             "paddingBottom": "1",
             "parallax": true,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/untitled-5-2000x1125-1.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/untitled-9-2000x1125.jpg",
             "bgColor": "#F2F2F2",
             "bgColorRadio": false,
             "bgVideo": {
@@ -1927,7 +1927,7 @@
             "paddingBottom": "1",
             "parallax": true,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/untitled-5-2000x1125.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/untitled-9-2000x1125.jpg",
             "bgColor": "#F2F2F2",
             "bgColorRadio": false,
             "bgVideo": {
@@ -2026,7 +2026,7 @@
             "paddingBottom": "2",
             "bgImageRadio": true,
             "parallax": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/untitled-5-2000x1125.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/untitled-4-2000x1125.jpg",
             "bgColor": "#fff",
             "bgColorRadio": false,
             "overlay": true,
@@ -2072,7 +2072,7 @@
             "bgColor": "#2e2e2e",
             "bgColorRadio": false,
             "overlay": true,
-            "overlayOpacity": "0.6",
+            "overlayOpacity": "0.5",
             "overlayColor": "#008999"
           },
           "text1": "<strong>Address</strong><br>15281 SW 26 TER<br>Miami, FL 33182<br><br><br>\n<strong>Contacts</strong><br>\nEmail: prodriguez@miamiartsstudio.com<br>\nPhone: 786-423-6392<br>",
@@ -2156,7 +2156,7 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
-              "color": "#c0a375!important"
+              "color": "#ffffff!important"
             },
             ".btn": {
               "font-family": "'Arimo', sans-serif",
